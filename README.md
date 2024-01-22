@@ -1,5 +1,11 @@
-### Hi there 👋
+### Я Александр Фирсов, начинающий специалист по Data Scientist
 
+- Интересуюсь рынком форекс
+- На текущий момент неспешно ищу работу по удаленке/фрилансером
+- Не интересует переезд за пределы РФ.
+
+Знаком со следующими языками и инструментами:
+python bash html css SQL
 <!--
 **Alexander-Firsov/Alexander-Firsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+example: https://github.com/opa-oz
 -->
